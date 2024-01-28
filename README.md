@@ -2,7 +2,7 @@
 
 ![HERMIONE-MD Logo](Gallery/standard%20(6).gif)
 
-I AM KAVISHKA LAKSHAN
+**Hello, I'm ING. Kavishka Lakshan, a 17-year-old residing in the vibrant island of Sri Lanka. I am passionately immersed in the world of software engineering, where I work diligently to craft innovative solutions and contribute to the ever-evolving tech landscape. With a zeal for learning and a commitment to excellence, I navigate the intricate realms of coding and development to bring ideas to life. Join me on this exciting journey as I strive to make a meaningful impact in the realm of technology.**
 #ROCKY
 <div align="center">
   <img src="Gallery/standard (5).gif" alt="HERMIONE-MD Logo" width="200">
