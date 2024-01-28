@@ -1,6 +1,6 @@
 # HERMIONE-MD
 
-![HERMIONE-MD Logo](path/to/your/logo.png)
+![HERMIONE-MD Logo](Gallery/standard (6).gif)
 
 ## Overview
 
