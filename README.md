@@ -2,6 +2,12 @@
 
 ![HERMIONE-MD Logo](Gallery/standard%20(6).gif)
 
+I AM KAVISHKA LAKSHAN
+#ROCKY
+wqkxM1iXr58He4Ey<div align="center">
+  <img src="Gallery/standard (5).gif" alt="HERMIONE-MD Logo" width="200">
+</div>
+
 ## Overview
 
 HERMIONE-MD is a [brief description of your bot script]. [Explain what it does and why it's useful.]
