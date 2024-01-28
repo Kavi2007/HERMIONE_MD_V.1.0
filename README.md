@@ -4,7 +4,7 @@
 
 I AM KAVISHKA LAKSHAN
 #ROCKY
-wqkxM1iXr58He4Ey<div align="center">
+<div align="center">
   <img src="Gallery/standard (5).gif" alt="HERMIONE-MD Logo" width="200">
 </div>
 
